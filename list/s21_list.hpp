@@ -507,7 +507,6 @@ namespace S21 {
             prev->ptr_next_ = next;
             next->ptr_prev_ = prev;
             delete ptr;
-            ptr = nullptr;
             --size_;
         }
     }
