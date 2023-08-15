@@ -5,10 +5,10 @@ The "S21-Containers" project is a collection of container implementations simila
 ## Features
 
 - The project includes the following containers:
-  - Vector, Array
-  - Linked List (List)
-  - Queue, Stack
-  - Map, Set, Multiset
+  - [Vector](https://en.cppreference.com/w/cpp/container/vector), [Array](https://en.cppreference.com/w/cpp/container/array)
+  - [List](https://en.cppreference.com/w/cpp/container/list)
+  - [Queue](https://en.cppreference.com/w/cpp/container/queue), [Stack](https://en.cppreference.com/w/cpp/container/stack)
+  - [Map](https://en.cppreference.com/w/cpp/container/map), [Set](https://en.cppreference.com/w/cpp/container/set), [Multiset](https://en.cppreference.com/w/cpp/container/multiset)
 
 - The containers offer an interface similar to the C++ Standard Library, making it easy to adapt and understand the code.
 
