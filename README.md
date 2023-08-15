@@ -18,9 +18,9 @@ The "S21-Containers" project is a collection of container implementations simila
 ```sh
 git clone https://github.com/zenorachi/s21-containers.git
  ```
-2. Navigate to s21-containers/src:
+2. Navigate to s21-containers:
 ```sh
-cd s21-containers/src
+cd s21-containers:
  ```
 3. Use the `.h` files to include the containers in your code.
 
